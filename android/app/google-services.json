@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240606826451",
+    "project_id": "fir-course-5fe47",
+    "storage_bucket": "fir-course-5fe47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240606826451:android:1670da874ede3bddb7e926",
+        "android_client_info": {
+          "package_name": "com.example.firebase_course"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX83U5nAxYr0T3qmo3wiRkpHJS2v1nOOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
